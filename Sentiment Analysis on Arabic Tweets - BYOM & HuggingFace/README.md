@@ -168,13 +168,9 @@ predictions = tdml.ONNXPredict(
 
 ## 📚 Documentation
 
-### Official Resources
+### Official Guide on BYOM 
 
-- **[Teradata Documentation Hub](https://docs.teradata.com/)**
-- **[ClearScape Analytics Experience Guide](https://docs.teradata.com/r/Teradata-VantageCloud-Lake/Getting-Started-First-Sign-On-by-Organization-Admin/Sign-On-to-ClearScape-Analytics-Experience)**
-- **[TeradataML Python Package Documentation](https://docs.teradata.com/r/Enterprise_IntelliFlex_VMware/Teradata-Package-for-Python-User-Guide/Python-Analytic-Functions)**
-- **[BYOM Documentation](https://docs.teradata.com/r/Teradata-VantageTM-Bring-Your-Own-Model-User-Guide)**
-- **[ONNXPredict Function Reference](https://docs.teradata.com/r/Teradata-VantageTM-Machine-Learning-Engine-Analytic-Function-Reference/December-2022/Model-Deployment-Functions/ONNXPredict)**
+- **[BYOM Documentation](https://docs.teradata.com/r/Enterprise_IntelliFlex_Lake_VMware/Teradata-VantageTM-Bring-Your-Own-Model-User-Guide/Welcome-to-Bring-Your-Own-Model))**
 
 ### Model & Framework Resources
 
