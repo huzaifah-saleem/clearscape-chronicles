@@ -1,4 +1,4 @@
-# 🚀 Teradata Vantage Clearscape Code Snippets & Solutions
+# Clearscape Chronicles 💻
 
 <div align="center">
 
