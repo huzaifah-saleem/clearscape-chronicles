@@ -1,15 +1,10 @@
 # 🚀 Teradata Vantage Clearscape Code Snippets & Solutions
 
 <div align="center">
-  
-  [![Teradata](https://img.shields.io/badge/Teradata-Vantage-FF6C00?style=for-the-badge&logo=teradata&logoColor=white)](https://www.teradata.com/)
-  [![ClearScape Analytics](https://img.shields.io/badge/ClearScape-Analytics-FF6C00?style=for-the-badge)](https://www.teradata.com/platform/clearscape-analytics)
-  
-  [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![SQL](https://img.shields.io/badge/SQL-Teradata-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](https://docs.teradata.com/)
-  [![Jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-  
-  <h3>A collection of practical Teradata Vantage code examples and analytics solutions</h3>
+
+<img src="https://cdn.sanity.io/images/lnz67o85/production/8432115ad5ee0b9e8f886ed8b34d623ef2712d01-1610x890.jpg?w=3840&q=75&fit=max&auto=format" />
+
+  <h3>A collection of Teradata Vantage Clearscape code examples and analytics solutions showing offerings like BYOM, MCP and more</h3>
 </div>
 
 ---
