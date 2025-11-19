@@ -68,8 +68,6 @@ This repository is organized in folders representing each use case, making it ea
 Each folder contains:
 - 📄 **Code examples** (`.py`, `.sql`, `.ipynb`)
 - 📋 **README** with specific use case details
-- 📊 **Sample data** (where applicable)
-- 📝 **Documentation** and best practices
 
 ---
 
@@ -102,7 +100,7 @@ Each folder contains:
 
 ---
 
-## 🎯 Use Cases Covered
+## 🎯 Use Cases Covered (current and planned)
 
 - **🤖 Machine Learning**: Classification, regression, clustering using ClearScape Analytics
 - **📊 Sentiment Analysis**: NLP solutions including Arabic text processing with AraBERT
@@ -159,5 +157,4 @@ Built with ❤️ using:
 
 <div align="center">
   <p>If you find this repository helpful, please consider giving it a ⭐!</p>
-  <img src="https://www.teradata.com/getattachment/3c183b6e-ec97-42f9-b480-1ea49b87ca86/Teradata-ClearScape.png" alt="ClearScape Analytics" width="200"/>
 </div>
